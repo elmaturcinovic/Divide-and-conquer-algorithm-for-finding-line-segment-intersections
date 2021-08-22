@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/07/01 20:11:21.000.797,=C:\Users\elma\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2021/07/01 20:11:21.000.691,=C:\Users\elma\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2021/07/01 20:12:42.000.757,C:\Users\elma\Documents\Embarcadero\Studio\Projects\ProjekatUKG_ElmaTurčinovićPCH1.h=C:\Users\elma\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2021/07/01 20:12:42.000.762,C:\Users\elma\Documents\Embarcadero\Studio\Projects\ProjekatUKG_ElmaTurčinović.cbproj=C:\Users\elma\Documents\Embarcadero\Studio\Projects\Project2.cbproj</Transaction>
+    <Transaction>2021/07/01 20:12:59.000.220,C:\Users\elma\Documents\Embarcadero\Studio\Projects\main.cpp=C:\Users\elma\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2021/07/01 20:12:59.000.220,C:\Users\elma\Documents\Embarcadero\Studio\Projects\main.dfm=C:\Users\elma\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2021/07/01 20:12:59.000.220,C:\Users\elma\Documents\Embarcadero\Studio\Projects\main.h=C:\Users\elma\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2021/07/01 20:38:09.000.144,=C:\Users\elma\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2021/07/01 20:39:05.000.505,C:\Users\elma\Documents\Embarcadero\Studio\Projects\pomocna.h=C:\Users\elma\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2021/07/01 20:39:05.000.505,C:\Users\elma\Documents\Embarcadero\Studio\Projects\pomocna.cpp=C:\Users\elma\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2021/07/02 01:25:42.000.386,C:\Users\elma\Documents\Embarcadero\Studio\Projects\ProjekatUKG_ElmaTurčinović.cbproj=C:\Users\elma\Documents\Embarcadero\Studio\Projects\ProjekatUKG_ElmaTurčinović.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
